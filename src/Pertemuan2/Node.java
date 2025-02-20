@@ -1,4 +1,4 @@
-
+package Pertemuan2;
 
 public class Node {
     private int nilai;

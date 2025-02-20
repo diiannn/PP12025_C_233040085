@@ -1,3 +1,4 @@
+package Pertemuan2;
 
 public class NodeMainA {
     public static void main(String[] args) {

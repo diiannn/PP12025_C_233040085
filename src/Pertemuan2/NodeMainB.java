@@ -1,3 +1,5 @@
+package Pertemuan2;
+
 public class NodeMainB {
     public static void main(String[] args) {
         // membuat node yang di perlukan
